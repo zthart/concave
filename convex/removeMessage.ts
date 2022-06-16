@@ -1,6 +1,6 @@
 // XXX TODO
 
-import { mutation } from "convex-dev/server";
+import { mutation } from 'convex-dev/server';
 
 // "Delete" an image.
 export default mutation(({ db }, image_id: string) => {

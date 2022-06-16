@@ -1,4 +1,4 @@
-import { Id } from "convex-dev/values";
+import { Id } from 'convex-dev/values';
 
 export type Image = {
   _id: Id;
