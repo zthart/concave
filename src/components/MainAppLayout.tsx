@@ -28,7 +28,6 @@ const MainAppLayout = () => {
 
   return (
     <>
-      {' '}
       <Box display="flex" flexDirection="column">
         <Box
           display="flex"
